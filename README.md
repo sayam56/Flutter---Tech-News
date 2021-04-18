@@ -1,6 +1,6 @@
 # json_cache
 
-A new Flutter project.
+A Flutter application with an integrated API that shows the latest tech News. Practicing Json api integration, creating data model with beautilful dark UI.
 
 ## Getting Started
 
